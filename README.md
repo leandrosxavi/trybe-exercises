@@ -1,7 +1,9 @@
-READMEEEEEEEEEEEEE
+Sejam muito bem vindos ao meu repositório de exercícios do curso Trybe.
 
-READMEEEEE MY FRIEND!
+Todos os exercícios serão feitos da forma mais completa possível, contando sempre com o máximo de comentários possíveis para maior fixação do conteúdo.
 
-READMEEEEEEEEEEEEE AGAIN!
+Conto com a ajuda e contribuição de toda e qualquer contribuição ou sugestão.
 
-TANANANÃ NANA NANA NANANA
+Tenham um ótimo dia e voltem sempre!!
+
+#VqV #GoTrybe
